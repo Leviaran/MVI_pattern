@@ -1,0 +1,1 @@
+package com.example.modular.domain.core;
